@@ -1,0 +1,4 @@
+﻿  ThreadPool.cpp
+F:\study\code\C++\Concurrency\Concurrency\ThreadPool.cpp(56,9): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“std::thread::id”
+F:\study\code\C++\Concurrency\Concurrency\ThreadPool.cpp(142,7): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+  Concurrency.vcxproj -> F:\study\code\C++\Concurrency\Debug\Concurrency.exe
