@@ -28,7 +28,7 @@ public:
 
 	std::shared_ptr<T> try_pop()
 	{
-
+		std::min()
 	}
 
 	void push(T new_value)
